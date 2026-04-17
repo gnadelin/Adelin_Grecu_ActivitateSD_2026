@@ -21,5 +21,14 @@
     <ClCompile Include="Laborator02.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Laborator04.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sablon05.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="luptaCuPointerul.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -125,6 +125,9 @@
   <ItemGroup>
     <ClCompile Include="Laborator01.c" />
     <ClCompile Include="Laborator02.c" />
+    <ClCompile Include="Laborator04.c" />
+    <ClCompile Include="luptaCuPointerul.c" />
+    <ClCompile Include="sablon05.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
